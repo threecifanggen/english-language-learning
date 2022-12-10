@@ -2,7 +2,7 @@
 ========================================
 
 
-这个一个[@GGG](mailto:this.is.3gee@outlook.com)
+这个一个[@3GEE](mailto:this.is.3gee@outlook.com)的英语学习网站。
 
 
 ```{toctree}
